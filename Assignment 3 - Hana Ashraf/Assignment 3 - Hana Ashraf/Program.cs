@@ -7,13 +7,6 @@
         public double gradesAverage;
       
     }
-    //struct Books
-    //{
-    //    public string title;
-    //    public string author;
-    //    public int publicationYear;
-    //    public string genre;
-    //}
 
     internal class Program
     {
@@ -95,83 +88,6 @@
             }
 
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            //string[] booksGenre = { "Fiction", "NonFiction", "Mystery", "ScienceFiction", "Biography" };
-            //string enteredGenre;
-
-                //Books[] books = new Books[3];
-                //bool isContains;
-
-                //for (int i = 0; i < books.Length; i++)
-                //{
-                //    Console.WriteLine($"please enter number {i} book Data \nBook Title :\n");
-                //    books[i].title = Console.ReadLine();
-                //    Console.WriteLine("Book Author :");
-                //    books[i].author = Console.ReadLine();
-                //    Console.WriteLine("Book Publication Year :");
-                //    books[i].publicationYear = Convert.ToInt32(Console.ReadLine());
-                //    Console.WriteLine("Book Genre :");
-
-                //bool isImpty = true;
-                //while (isImpty == true)
-                //{
-                //    enteredGenre = Console.ReadLine();
-
-
-                //    for (int j = 0; j < booksGenre.Length; j++)
-                //    {
-
-                //        if (enteredGenre == booksGenre[j])
-                //        {
-                //            books[i].genre = enteredGenre;
-                //            isImpty = false;
-                //            break;
-                //        }
-                //    }
-
-                //    if (isImpty == true)
-                //    {
-                //        Console.WriteLine("Not valid please enter a valid genre\n");
-                //        Console.WriteLine(String.Join(", ", booksGenre));
-                //    }
-
-                //}
-
-                //    Console.WriteLine($"Data of {i} book is Title: {books[i].title} Author: {books[i].title} Publication Year: {books[i].title} Genre: {books[i].title}");
-                //}
-                //}
-
-
-
 
 
 
